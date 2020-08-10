@@ -1,5 +1,5 @@
 # tecblog.github.io
-TecBlog
+<h1>TecBlog</h1>
 
 Imagens do projeto que foi feito com intuito de praticar o aprendizado adquirido durante os estudos de HTML e CSS básicos.
 
